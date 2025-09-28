@@ -1,12 +1,12 @@
-# 📊 Financial Dashboard (2020–2024)
+#  Financial Dashboard (2020–2024)
 
 This is a **Financial Analysis Dashboard** built with `Python` and `Dash`, designed to visualize key financial data of companies from **2020 to 2024**. The dashboard uses periodic financial report data (CSV files) and presents interactive charts and metrics to support investment and analysis decisions.
 
-> 👨‍💼 Ideal for investors, data analysts, and finance/accounting students.
+>  Ideal for investors, data analysts, and finance/accounting students.
 
 ---
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard Report]![image](https://github.com/user-attachments/assets/298c2f16-b424-47e6-bfb4-bd860fbed59c)
 
@@ -14,14 +14,14 @@ This is a **Financial Analysis Dashboard** built with `Python` and `Dash`, desig
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 
-### 🎯 Financial Overview
+### Financial Overview
 - Metrics: **Free Cash Flow**, **Net Revenue**, **Net Profit After Tax**, **Gross Profit**.
 - Balance sheet items: **Total Assets**, **Cash & Cash Equivalents**, **Liabilities**, **Financial Expenses**, and more.
 - Year-over-year comparisons shown with percentage change and directional arrows.
 
-### 📉 Financial Ratios
+###  Financial Ratios
 - Includes **Quick Ratio**, **Cash Ratio**, **D/E (Debt-to-Equity)**, **DOH (Days of Inventory on Hand)**, **ROA**, and **ROE**.
 - Color-coded indicators for visualizing positive or negative trends.
 
@@ -30,13 +30,13 @@ This is a **Financial Analysis Dashboard** built with `Python` and `Dash`, desig
 - **Top 10 Companies by Gross Profit** (2024).
 - **Net Revenue Trends (2020–2024)** for selected stock codes.
 
-### 🔍 Interactive Features
+###  Interactive Features
 - Dropdown menus for selecting **stock ticker**, **comparison year**, and **base year**.
 - All metrics and visuals auto-update based on user selection.
 
 ---
 
-## 🧾 Input Data
+##  Input Data
 
 - Format: CSV files with financial statement data.
 - Content:
@@ -44,7 +44,7 @@ This is a **Financial Analysis Dashboard** built with `Python` and `Dash`, desig
   - Period: **2020–2024**.
   - Focus sectors: **Food & Beverage industry** and related sub-sectors.
 
-> 🔒 **Note**: Data files are not included for privacy reasons. You can plug in your own CSV data into the `data/` folder to test the dashboard.
+>  **Note**: Data files are not included for privacy reasons. You can plug in your own CSV data into the `data/` folder to test the dashboard.
 
 ---
 
@@ -59,7 +59,7 @@ This is a **Financial Analysis Dashboard** built with `Python` and `Dash`, desig
 
 ---
 
-## 🚀 How to Run the Dashboard
+##  How to Run the Dashboard
 
 1. **Install dependencies**:
 
